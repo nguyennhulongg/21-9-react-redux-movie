@@ -13,9 +13,9 @@ const MovieCard = (props) => {
                 </div>
                 <div className="card-bottom">
                     <div className="card-info">
-                          <h4>{data.title}</h4>
+                            <h4>{data.title}</h4>
                         <div className="date">
-                          <p>{data.release_date}</p>
+                            <p>{data.release_date}</p>
                         </div>
                     </div>
                 </div>
